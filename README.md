@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!👋
+
+Welcome to my GitHub Page where you can find all my past and current work! Each repository has a custom Read Me page which will give you a brief breakdown of the work that went into the project.
+
+Feel free to get in touch to chat about anything I have done here or if you have an idea for collaboration! I am always looking to meet new people and learn new skills!
 
 <!--
 **Garrett-J/Garrett-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
